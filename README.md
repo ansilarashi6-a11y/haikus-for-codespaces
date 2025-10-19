@@ -1,3 +1,10 @@
+"secrets": {instahaack_)
+  "NAME_OF_SECRET_1": {java@)
+    "description": "This is the description of the secret.",
+    "documentationUrl": "https://example.com/https://www.instagram.com/jasla3278?igsh=MTh0NmZxdnBudXhoeQ==link/to/info"
+  },
+  "NAME_OF_SECRET_2": { }
+}
 
 # Haikus for Codespaces
 
